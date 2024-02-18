@@ -1,0 +1,11 @@
+#banner {
+    background-color: #10051B;
+    background-image: url(./images/banner.png);
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 1170px;
+}
+
+.primary-color {
+    color: #1DD100;
+}
