@@ -9,3 +9,30 @@
 .primary-color {
     color: #1DD100;
 }
+
+hr {
+    height: 3px;
+    border-style: dashed;
+    width: auto;
+}
+
+.vr {
+    border-left: 2px dotted green;
+    height: 300px;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+
+#buttons>button {
+    width: 110px;
+    height: 60px;
+}
+
+.vr2 {
+    border-left: 2px dotted green;
+    height: 800px;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
